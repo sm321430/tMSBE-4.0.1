@@ -1,0 +1,5 @@
+omplace information:
+   MPI type is HPE MPI, 3 threads, thread model is intel17
+   placement file /tmp/omplace.file.smclaren.354192:
+    fork skip=0  exact cpu=672
+    thread oncpu=672 cpu=673,674 noplace=0  exact

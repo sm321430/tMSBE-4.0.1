@@ -1,0 +1,271 @@
+
+boole.acmsnet: 
+                                                                         Req'd  Req'd   Elap
+Job ID               Username    Queue    Jobname          SessID NDS   TSK    Memory Time  S Time
+-------------------- ----------- -------- ---------------- ------ ----- ------ ------ ----- - -----
+81565.localhost      jhader      batch    mote2_f           83774     1      1    --  300:0 R 50:58
+   localhost-0/1
+81566.localhost      jhader      batch    mote2_f           83842     1      1    --  300:0 R 50:58
+   localhost-0/2
+81567.localhost      jhader      batch    mote2_f           84056     1      1    --  300:0 R 50:58
+   localhost-0/3
+81568.localhost      jhader      batch    mote2_f           84128     1      1    --  300:0 R 50:58
+   localhost-0/4
+81569.localhost      jhader      batch    mote2_f           84223     1      1    --  300:0 R 50:58
+   localhost-0/5
+81570.localhost      jhader      batch    mote2_f           84284     1      1    --  300:0 R 50:58
+   localhost-1/0
+81571.localhost      jhader      batch    mote2_f           84343     1      1    --  300:0 R 50:58
+   localhost-1/1
+81572.localhost      jhader      batch    mote2_f           84412     1      1    --  300:0 R 50:58
+   localhost-1/2
+81573.localhost      jhader      batch    mote2_f           84475     1      1    --  300:0 R 50:59
+   localhost-1/3
+81574.localhost      jhader      batch    mote2_f           84522     1      1    --  300:0 R 50:59
+   localhost-1/4
+81575.localhost      jhader      batch    mote2_f           84631     1      1    --  300:0 R 50:59
+   localhost-0/0
+81576.localhost      jhader      batch    mote2_f           84658     1      1    --  300:0 R 50:59
+   localhost-1/5
+81577.localhost      jhader      batch    mote2_f           84713     1      1    --  300:0 R 50:59
+   localhost-2/0
+81578.localhost      jhader      batch    mote2_f           84773     1      1    --  300:0 R 50:59
+   localhost-2/1
+81579.localhost      jhader      batch    mote2_f           84837     1      1    --  300:0 R 50:59
+   localhost-2/2
+81580.localhost      jhader      batch    mote2_f           84889     1      1    --  300:0 R 50:59
+   localhost-2/3
+81581.localhost      jhader      batch    mote2_f           84940     1      1    --  300:0 R 50:59
+   localhost-2/4
+81582.localhost      jhader      batch    mote2_f           84994     1      1    --  300:0 R 50:59
+   localhost-2/5
+81583.localhost      jhader      batch    mote2_f           85068     1      1    --  300:0 R 50:59
+   localhost-3/0
+81584.localhost      jhader      batch    mote2_f           85127     1      1    --  300:0 R 50:59
+   localhost-3/1
+81585.localhost      jhader      batch    mote2_f           85194     1      1    --  300:0 R 50:59
+   localhost-3/2
+81586.localhost      jhader      batch    mote2_f           85252     1      1    --  300:0 R 50:59
+   localhost-3/3
+81587.localhost      jhader      batch    mote2_f           85304     1      1    --  300:0 R 50:59
+   localhost-3/4
+81588.localhost      jhader      batch    mote2_f           85366     1      1    --  300:0 R 50:59
+   localhost-3/5
+81589.localhost      jhader      batch    mote2_f           85426     1      1    --  300:0 R 50:59
+   localhost-4/0
+81590.localhost      jhader      batch    mote2_f           85481     1      1    --  300:0 R 50:59
+   localhost-4/1
+81591.localhost      jhader      batch    mote2_f           85551     1      1    --  300:0 R 50:59
+   localhost-4/2
+81592.localhost      jhader      batch    mote2_f           85610     1      1    --  300:0 R 50:59
+   localhost-4/3
+81593.localhost      jhader      batch    mote2_f           85658     1      1    --  300:0 R 50:59
+   localhost-4/4
+81594.localhost      jhader      batch    mote2_f           85727     1      1    --  300:0 R 50:59
+   localhost-4/5
+81595.localhost      jhader      batch    mote2_f           85781     1      1    --  300:0 R 50:59
+   localhost-5/0
+81596.localhost      jhader      batch    mote2_f           85838     1      1    --  300:0 R 50:59
+   localhost-5/1
+81597.localhost      jhader      batch    mote2_f           85899     1      1    --  300:0 R 50:59
+   localhost-5/2
+81598.localhost      jhader      batch    mote2_f           85964     1      1    --  300:0 R 50:59
+   localhost-5/3
+81599.localhost      jhader      batch    mote2_f           86012     1      1    --  300:0 R 50:59
+   localhost-5/4
+81600.localhost      jhader      batch    mote2_f           86086     1      1    --  300:0 R 50:59
+   localhost-5/5
+81601.localhost      jhader      batch    mote2_f           86137     1      1    --  300:0 R 50:59
+   localhost-6/0
+81602.localhost      jhader      batch    mote2_f           86189     1      1    --  300:0 R 50:59
+   localhost-6/1
+81603.localhost      jhader      batch    mote2_f           86251     1      1    --  300:0 R 50:59
+   localhost-6/2
+81604.localhost      jhader      batch    mote2_f           86314     1      1    --  300:0 R 50:59
+   localhost-6/3
+81605.localhost      jhader      batch    mote2_f           86376     1      1    --  300:0 R 50:59
+   localhost-6/4
+81606.localhost      jhader      batch    mote2_f           86432     1      1    --  300:0 R 50:59
+   localhost-6/5
+81607.localhost      jhader      batch    mote2_f           86490     1      1    --  300:0 R 50:59
+   localhost-7/0
+81608.localhost      jhader      batch    mote2_f           86544     1      1    --  300:0 R 50:59
+   localhost-7/1
+81609.localhost      jhader      batch    mote2_f           86605     1      1    --  300:0 R 50:58
+   localhost-7/2
+81610.localhost      jhader      batch    mote2_f           86655     1      1    --  300:0 R 50:58
+   localhost-7/3
+81611.localhost      jhader      batch    mote2_f           86720     1      1    --  300:0 R 50:58
+   localhost-7/4
+81612.localhost      jhader      batch    mote2_f           86786     1      1    --  300:0 R 50:58
+   localhost-7/5
+81613.localhost      jhader      batch    mote2_f           86843     1      1    --  300:0 R 50:58
+   localhost-8/0
+81614.localhost      jhader      batch    mote2_f           86897     1      1    --  300:0 R 50:58
+   localhost-8/1
+81615.localhost      jhader      batch    mote2_f           86953     1      1    --  300:0 R 50:58
+   localhost-8/2
+81616.localhost      jhader      batch    mote2_f           87015     1      1    --  300:0 R 50:58
+   localhost-8/3
+81617.localhost      jhader      batch    mote2_f           87066     1      1    --  300:0 R 50:58
+   localhost-8/4
+81618.localhost      jhader      batch    mote2_f           87107     1      1    --  300:0 R 50:59
+   localhost-8/5
+81619.localhost      jhader      batch    mote2_f           87198     1      1    --  300:0 R 50:59
+   localhost-9/0
+81620.localhost      jhader      batch    mote2_f           87258     1      1    --  300:0 R 50:59
+   localhost-9/1
+81621.localhost      jhader      batch    mote2_f           87310     1      1    --  300:0 R 50:59
+   localhost-9/2
+81622.localhost      jhader      batch    mote2_f           87374     1      1    --  300:0 R 50:59
+   localhost-9/3
+81623.localhost      jhader      batch    mote2_f           87443     1      1    --  300:0 R 50:59
+   localhost-9/4
+81624.localhost      jhader      batch    mote2_f           87494     1      1    --  300:0 R 50:59
+   localhost-9/5
+81625.localhost      jhader      batch    mote2_f           87561     1      1    --  300:0 R 50:58
+   localhost-10/0
+81626.localhost      jhader      batch    mote2_f           87612     1      1    --  300:0 R 50:58
+   localhost-10/1
+81627.localhost      jhader      batch    mote2_f           87651     1      1    --  300:0 R 50:58
+   localhost-10/2
+81628.localhost      jhader      batch    mote2_f           87695     1      1    --  300:0 R 50:58
+   localhost-10/3
+81629.localhost      jhader      batch    mote2_f           87754     1      1    --  300:0 R 50:58
+   localhost-10/4
+81630.localhost      jhader      batch    mote2_f           87827     1      1    --  300:0 R 50:58
+   localhost-10/5
+81631.localhost      jhader      batch    mote2_f           87899     1      1    --  300:0 R 50:58
+   localhost-11/0
+81632.localhost      jhader      batch    mote2_f           87951     1      1    --  300:0 R 50:58
+   localhost-11/1
+81633.localhost      jhader      batch    mote2_f           88033     1      1    --  300:0 R 50:58
+   localhost-11/2
+81634.localhost      jhader      batch    mote2_f           88077     1      1    --  300:0 R 50:58
+   localhost-11/3
+81636.localhost      jhader      batch    mote2_f           88206     1      1    --  300:0 R 50:58
+   localhost-11/5
+81637.localhost      jhader      batch    mote2_f           88261     1      1    --  300:0 R 50:58
+   localhost-12/0
+81638.localhost      jhader      batch    mote2_f           88328     1      1    --  300:0 R 50:58
+   localhost-12/1
+81639.localhost      jhader      batch    mote2_f           88364     1      1    --  300:0 R 50:58
+   localhost-12/2
+81640.localhost      jhader      batch    mote2_f           88431     1      1    --  300:0 R 50:58
+   localhost-12/3
+81641.localhost      jhader      batch    mote2_f           88491     1      1    --  300:0 R 50:58
+   localhost-12/4
+81642.localhost      jhader      batch    mote2_f           88549     1      1    --  300:0 R 50:58
+   localhost-12/5
+81643.localhost      jhader      batch    mote2_f           88595     1      1    --  300:0 R 50:58
+   localhost-13/0
+81644.localhost      jhader      batch    mote2_f           88650     1      1    --  300:0 R 50:58
+   localhost-13/1
+81645.localhost      jhader      batch    mote2_f           88734     1      1    --  300:0 R 50:58
+   localhost-13/2
+81646.localhost      jhader      batch    mote2_f           88796     1      1    --  300:0 R 50:58
+   localhost-13/3
+81647.localhost      jhader      batch    mote2_f           88855     1      1    --  300:0 R 50:58
+   localhost-13/4
+81648.localhost      jhader      batch    mote2_f           88915     1      1    --  300:0 R 50:58
+   localhost-13/5
+81649.localhost      jhader      batch    mote2_f           88961     1      1    --  300:0 R 50:58
+   localhost-14/0
+81650.localhost      jhader      batch    mote2_f           89022     1      1    --  300:0 R 50:58
+   localhost-14/1
+81651.localhost      jhader      batch    mote2_f           89066     1      1    --  300:0 R 50:58
+   localhost-14/2
+81652.localhost      jhader      batch    mote2_f           89114     1      1    --  300:0 R 50:58
+   localhost-14/3
+81653.localhost      jhader      batch    mote2_f           89158     1      1    --  300:0 R 50:58
+   localhost-14/4
+81654.localhost      jhader      batch    mote2_f           89257     1      1    --  300:0 R 50:58
+   localhost-14/5
+81655.localhost      jhader      batch    mote2_f           89316     1      1    --  300:0 R 50:58
+   localhost-15/0
+81656.localhost      jhader      batch    mote2_f           89378     1      1    --  300:0 R 50:58
+   localhost-15/1
+81657.localhost      jhader      batch    mote2_f           89435     1      1    --  300:0 R 50:58
+   localhost-15/2
+81658.localhost      jhader      batch    mote2_f           89494     1      1    --  300:0 R 50:58
+   localhost-15/3
+81659.localhost      jhader      batch    mote2_f           89547     1      1    --  300:0 R 50:58
+   localhost-15/4
+81660.localhost      jhader      batch    mote2_f           89616     1      1    --  300:0 R 50:58
+   localhost-15/5
+81661.localhost      jhader      batch    mote2_f           89674     1      1    --  300:0 R 50:58
+   localhost-16/0
+81662.localhost      jhader      batch    mote2_f           89738     1      1    --  300:0 R 50:58
+   localhost-16/1
+81663.localhost      jhader      batch    mote2_f           89805     1      1    --  300:0 R 50:58
+   localhost-16/2
+81664.localhost      jhader      batch    mote2_f           89852     1      1    --  300:0 R 50:58
+   localhost-16/3
+81665.localhost      jhader      batch    mote2_f           89911     1      1    --  300:0 R 50:58
+   localhost-16/4
+81666.localhost      jhader      batch    mote2_f           89970     1      1    --  300:0 R 50:58
+   localhost-16/5
+81667.localhost      jhader      batch    mote2_f           90026     1      1    --  300:0 R 50:58
+   localhost-17/0
+81668.localhost      jhader      batch    mote2_f           90072     1      1    --  300:0 R 50:58
+   localhost-17/1
+81669.localhost      jhader      batch    mote2_f           90121     1      1    --  300:0 R 50:58
+   localhost-17/2
+81670.localhost      jhader      batch    mote2_f           90164     1      1    --  300:0 R 50:58
+   localhost-17/3
+81671.localhost      jhader      batch    mote2_f           90247     1      1    --  300:0 R 50:58
+   localhost-17/4
+81672.localhost      jhader      batch    mote2_f           90308     1      1    --  300:0 R 50:58
+   localhost-17/5
+81673.localhost      jhader      batch    mote2_f           90369     1      1    --  300:0 R 50:58
+   localhost-18/0
+81674.localhost      jhader      batch    mote2_f           90400     1      1    --  300:0 R 50:58
+   localhost-18/1
+81675.localhost      jhader      batch    mote2_f           90489     1      1    --  300:0 R 50:58
+   localhost-18/2
+81676.localhost      jhader      batch    mote2_f           90546     1      1    --  300:0 R 50:58
+   localhost-18/3
+81677.localhost      jhader      batch    mote2_f           90616     1      1    --  300:0 R 50:58
+   localhost-18/4
+81678.localhost      jhader      batch    mote2_f           90686     1      1    --  300:0 R 50:58
+   localhost-18/5
+81679.localhost      jhader      batch    mote2_f           90737     1      1    --  300:0 R 50:58
+   localhost-19/0
+81680.localhost      jhader      batch    mote2_f           90794     1      1    --  300:0 R 50:58
+   localhost-19/1
+81681.localhost      jhader      batch    mote2_f           90850     1      1    --  300:0 R 50:58
+   localhost-19/2
+81682.localhost      jhader      batch    mote2_f           90892     1      1    --  300:0 R 50:58
+   localhost-19/3
+81683.localhost      jhader      batch    mote2_f           90946     1      1    --  300:0 R 50:58
+   localhost-19/4
+81707.localhost      smclaren    batch    myMPIjob_boole.s 120742    24    144    --  900:0 R   -- 
+   localhost-43/5+localhost-43/4+localhost-43/3+localhost-43/2+localhost-43/1
+   +localhost-43/0+localhost-42/5+localhost-42/4+localhost-42/3+localhost-42/2
+   +localhost-42/1+localhost-42/0+localhost-41/5+localhost-41/4+localhost-41/3
+   +localhost-41/2+localhost-41/1+localhost-41/0+localhost-40/5+localhost-40/4
+   +localhost-40/3+localhost-40/2+localhost-40/1+localhost-40/0+localhost-39/5
+   +localhost-39/4+localhost-39/3+localhost-39/2+localhost-39/1+localhost-39/0
+   +localhost-38/5+localhost-38/4+localhost-38/3+localhost-38/2+localhost-38/1
+   +localhost-38/0+localhost-37/5+localhost-37/4+localhost-37/3+localhost-37/2
+   +localhost-37/1+localhost-37/0+localhost-36/5+localhost-36/4+localhost-36/3
+   +localhost-36/2+localhost-36/1+localhost-36/0+localhost-35/5+localhost-35/4
+   +localhost-35/3+localhost-35/2+localhost-35/1+localhost-35/0+localhost-34/5
+   +localhost-34/4+localhost-34/3+localhost-34/2+localhost-34/1+localhost-34/0
+   +localhost-33/5+localhost-33/4+localhost-33/3+localhost-33/2+localhost-33/1
+   +localhost-33/0+localhost-32/5+localhost-32/4+localhost-32/3+localhost-32/2
+   +localhost-32/1+localhost-32/0+localhost-31/5+localhost-31/4+localhost-31/3
+   +localhost-31/2+localhost-31/1+localhost-31/0+localhost-30/5+localhost-30/4
+   +localhost-30/3+localhost-30/2+localhost-30/1+localhost-30/0+localhost-29/5
+   +localhost-29/4+localhost-29/3+localhost-29/2+localhost-29/1+localhost-29/0
+   +localhost-28/5+localhost-28/4+localhost-28/3+localhost-28/2+localhost-28/1
+   +localhost-28/0+localhost-27/5+localhost-27/4+localhost-27/3+localhost-27/2
+   +localhost-27/1+localhost-27/0+localhost-26/5+localhost-26/4+localhost-26/3
+   +localhost-26/2+localhost-26/1+localhost-26/0+localhost-25/5+localhost-25/4
+   +localhost-25/3+localhost-25/2+localhost-25/1+localhost-25/0+localhost-24/5
+   +localhost-24/4+localhost-24/3+localhost-24/2+localhost-24/1+localhost-24/0
+   +localhost-23/5+localhost-23/4+localhost-23/3+localhost-23/2+localhost-23/1
+   +localhost-23/0+localhost-22/5+localhost-22/4+localhost-22/3+localhost-22/2
+   +localhost-22/1+localhost-22/0+localhost-21/5+localhost-21/4+localhost-21/3
+   +localhost-21/2+localhost-21/1+localhost-21/0+localhost-20/5+localhost-20/4
+   +localhost-20/3+localhost-20/2+localhost-20/1+localhost-20/0

@@ -1,0 +1,59 @@
+
+#echo KMP_AFFINITY
+# export KMP_AFFINITY=verbose,scatter
+# 
+
+LD        := mpicxx -w -std=c++0x -fopenmp -O3 -lcblas
+CC        := mpicxx -w -std=c++0x -fopenmp -O3 -lcblas
+
+MODULES = tMSBE-v3.7 
+SRC_DIR = $(addprefix src/,$(MODULES))
+BUILD_DIR := $(addprefix build/,$(MODULES))
+
+SRC       := $(foreach sdir,$(SRC_DIR),$(wildcard $(sdir)/*.cpp))
+OBJ       := $(patsubst src/%.cpp,build/%.o,$(SRC))
+INCLUDES  := $(addprefix -I,$(SRC_DIR))
+
+vpath %.cpp $(SRC_DIR)
+
+define make-goal
+$1/%.o: %.cpp
+	$(CC) $(INCLUDES) -c $$< -o $$@
+endef
+
+.PHONY: all checkdirs clean
+
+all: checkdirs build/a.out run/a.out configIsak
+
+build/a.out: $(OBJ)
+	$(LD) $^ -o $@ -lfftw3 -lcblas
+
+checkdirs: $(BUILD_DIR) run_dir
+
+$(BUILD_DIR):
+	@mkdir -p $@
+	
+run_dir:
+	@mkdir -p run/
+	
+configIsak: $(BUILD_DIR)
+	@cp material/material_* run/
+	@cp material/cavity.config run/
+	@cp material/wavefunction_* run/
+	@cp material/wavefunctions_* run/
+	@cp material/transverse_temperature_profile* run/
+	@cp myMPIjob_walton.sh run/
+
+run/a.out:
+	@cp build/a.out run/
+
+clean:
+	@rm -rf $(BUILD_DIR)
+	@rm -rf run/
+
+restart:
+	@rm -r build/*
+	@rm run/a.out
+	make
+
+$(foreach bdir,$(BUILD_DIR),$(eval $(call make-goal,$(bdir))))
